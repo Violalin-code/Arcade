@@ -3,8 +3,6 @@
 ## Overview
 This project focuses on data collection, analysis, and machine learning to derive insights from mini-bowling and arcade games. It also explores creating a chatbot using LangChain to suggest strategies based on the data.
 
----
-
 ## Table of Contents
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
@@ -12,8 +10,6 @@ This project focuses on data collection, analysis, and machine learning to deriv
 - [Deliverables](#deliverables)
 - [Submission Details](#submission-details)
 - [Authors](#authors)
-
----
 
 ## Project Structure
 1. **Data Collection**

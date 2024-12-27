@@ -1,5 +1,4 @@
-# CHEG472ArcadeProject
-# Bowling Data Analysis Project 🎮🎳
+# Data Analysis and Machine Learning for Mini-Bowling and Arcade Games with Strategy-Suggesting Chatbot Using LangChain 🎮🎳
 
 ## Overview
 This project focuses on data collection, analysis, and machine learning to derive insights from mini-bowling and arcade games. It also explores creating a chatbot using LangChain to suggest strategies based on the data.
